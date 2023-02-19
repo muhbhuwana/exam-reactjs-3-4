@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap');
+
+input-text .fa-eye-slash {
+    position: absolute;
+    right: 10px;
+    top: 15px;
+    font-size: 15px;
+    cursor: pointer
+}
+
+.fa-eye {
+    position: absolute;
+    right: 10px;
+    top: 15px;
+    font-size: 15px;
+    cursor: pointer
+}
+
+.btn-submit {
+    background-color: #7275FA !important;
+    border: solid #7275FA;
+
+    --bs-btn-hover-color: #fff;
+    --bs-btn-hover-bg: #434CF9;
+    --bs-btn-hover-border-color: #434CF9;
+}
+
+.txt-signup a {
+    color: #53A5E0 !important;
+}
+
+.txt-captcha {
+    font-size: 0.85rem !important;
+}
+
+.fs-7 {
+    font-size: 0.9rem !important;
+}
+
+.card-body .fw-light {
+    font-weight: 330 !important;
+}
+
+.btn-link {
+    text-decoration: none !important;
+    padding: 0;
+    vertical-align: baseline;
+}
